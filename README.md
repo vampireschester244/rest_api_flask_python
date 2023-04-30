@@ -14,8 +14,8 @@
  - Optimize performance of your REST APIs using task queues and background workers
  
  ## API Usage
-  #^ Users
-  #^ Items
-  #^ Stores
-  #^ Tags
+  * Users
+  * Items
+  * Stores
+  * Tags
   
