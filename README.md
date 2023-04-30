@@ -19,13 +19,13 @@
    - Triggering email notification to registered users.
    - To generate access and refresh JWT tokens for secure communication to the users
   * Items
-    - Create items data model and establish many to many relationship with stores and tags data models
-    - Ability for users create, read (single or multiple), updated and delete items in API
+   - Create items data model and establish many to many relationship with stores and tags data models
+   - Ability for users create, read (single or multiple), updated and delete items in API
   * Stores
-   - Create stores data model and maintain their related items and tags for tracking
-   - Ability for users create, read (single or multiple), updated and delete stores in API
+  - Create stores data model and maintain their related items and tags for tracking
+  - Ability for users create, read (single or multiple), updated and delete stores in API
   * Tags
-   - Create tags data model, in order to tag particular item to their respective category in stores
-   - Ability for users create, read (single or multiple), updated and delete tags in API
+  - Create tags data model, in order to tag particular item to their respective category in stores
+  - Ability for users create, read (single or multiple), updated and delete tags in API
    
   
